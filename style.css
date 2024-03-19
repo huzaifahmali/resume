@@ -80,7 +80,7 @@ body{font-family: 'Montserrat', sans-serif;}
 
 #education table tr.school-1 td:first-child {
     width: 120px;
-    color: gray;
+    color: #0d0d0d;
     padding-bottom: 25px;
 }
 
