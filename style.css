@@ -104,7 +104,7 @@ body{font-family: 'Montserrat', sans-serif;}
 
 #work table tr.work-1 td:first-child {
     width: 120px;
-    color: gray;
+    color: #0f0f0f;
     padding-bottom: 25px;
 }
 
@@ -114,7 +114,7 @@ body{font-family: 'Montserrat', sans-serif;}
 
 #work table tr.work-2 td:first-child {
     width: 120px;
-    color: gray;
+    color: #121212;
 }
 
 #bio-data h3 {
