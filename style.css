@@ -36,7 +36,7 @@ body{font-family: 'Montserrat', sans-serif;}
 }
 
 .contact-details {
-    background: #27aae1;
+    background: #e228c9;
     color: #121212;
     text-align: center;
     margin: auto;
@@ -65,7 +65,7 @@ body{font-family: 'Montserrat', sans-serif;}
 }
 
 #education h3 {
-    border: 1px solid #d3d3d3;
+    border: 1px solid #080808;
     text-transform: uppercase;
     padding: 5px;
     border-radius: 5px;
